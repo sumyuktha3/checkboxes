@@ -1,4 +1,3 @@
-# checkboxes
 # Ex.No: 8
 # Build a program to show five checkboxes and toast selected checkboxes.
 
